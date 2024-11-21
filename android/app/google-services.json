@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "144451514722",
+    "firebase_url": "https://ellemoraassignment-default-rtdb.firebaseio.com",
+    "project_id": "ellemoraassignment",
+    "storage_bucket": "ellemoraassignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144451514722:android:b52ba9ab53fd8746107c3b",
+        "android_client_info": {
+          "package_name": "com.example.ellemora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKp8wAc0CPj55sesxbsHkMybAm8vGndo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144451514722:android:ba998a4e644bcaa3107c3b",
+        "android_client_info": {
+          "package_name": "com.example.rashi_techologies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKp8wAc0CPj55sesxbsHkMybAm8vGndo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
